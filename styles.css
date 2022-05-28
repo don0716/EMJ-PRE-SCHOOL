@@ -32,7 +32,7 @@ a.nav-link:hover {
   color: black;
 }
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+  background-image: linear-gradient(rgba(36, 16, 16, 0.4), rgba(0, 0, 0, 0.4)),
     url("/images/emj-school.jpg");
   height: 50vh;
   background-size: cover;
